@@ -20,6 +20,24 @@
 <li ::marker>
     <a href = " teste"> Aula 6 - Collections (Queue e Stack) </a>
 </li>
+<li ::marker>
+    <a href = " teste"> Aula 7 - Métodos </a>
+</li>
+<li ::marker>
+    <a href = " teste"> Aula 8 - POO </a>
+</li>
+<li ::marker>
+    <a href = " teste"> Aula 9 - Herança e polimorfismo </a>
+</li>
+<li ::marker>
+    <a href = " teste"> Aula 10 - Classes/métodos abstratos e Interfaces </a>
+</li>
+<li ::marker>
+    <a href = " teste"> Aula 11 - Exceptions </a>
+</li>
+<li ::marker>
+    <a href = " teste"> Aula 12 - Expressões Lambda e Stream </a>
+</li>
 </ol>
 
 <br>
@@ -44,7 +62,21 @@
 <li ::marker>
     <a href = "https://github.com/mateuzu/Turma65_Generation/tree/main/src/aula6"> Exercícios Aula 6 </a>
 </li>
+<li ::marker>
+    <a href = "https://github.com/mateuzu/Turma65_Generation/tree/main/src/aula8"> Exercícios Aula 8 </a>
+</li>
 </ol>
+
+<br>
+
+### Projetos realizados 📝
+<ol dir="auto">
+<li ::marker>
+    <a href = "https://github.com/mateuzu/contabancaria"> Projeto Conta Bancária </a>
+</li>
+<li ::marker>
+    <a href = "https://github.com/mateuzu/Projeto_Biblioteca"> Projeto Biblioteca - Bloco 1 </a>
+</li>
 <div>
 
 </div>
