@@ -6,7 +6,7 @@
     <a href = "https://github.com/mateuzu/Turma65_Generation/blob/main/src/aula1/README_Aula1.md"> Aula 1 - Tipos de dados e entrada/saída de dados </a>
 </li>
 <li ::marker>
-    <a href = " teste"> Aula 2 - Laços condicionais </a>
+    <a href = "https://github.com/mateuzu/Turma65_Generation/blob/main/src/aula2/README_Aula2.md"> Aula 2 - Laços condicionais </a>
 </li>
 <li ::marker>
     <a href = " teste"> Aula 3 - Laços de repetição </a>
