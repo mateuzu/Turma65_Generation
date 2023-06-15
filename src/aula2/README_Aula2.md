@@ -102,6 +102,7 @@ switch (variavel ou valor) {
   default:
     //Opcional = executa alguma ação caso todas as condições anteriores forem falsas
     break;
+}
 ```
 
 O Laço Condicional SWITCH CASE representa de uma maneira mais simples o encadeamento de estruturas IF. É uma forma de reduzir a complexidade de várias estruturas IF encadeadas.
