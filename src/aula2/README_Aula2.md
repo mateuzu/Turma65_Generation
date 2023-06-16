@@ -20,11 +20,11 @@ Vale reforçar que a aplicação de cada uma dessas estruturas dependerá do con
 O Laço Condicional IF é o laço condicional mais simples e um dos mais utilizados em situações em que se faz necessário testar uma única condição e/ou variável, que caso seja verdadeira, irá desencadear a execução de um ou mais processamentos ou saídas de dados.
 <br>
 **Sintaxe:**
-```
+~~~java
 if (condição) {
  // Executa alguma ação caso a condição seja verdadeira
 }
-```
+~~~
 
 Neste Laço Condicional temos basicamente um teste (condição) e um grupo de ações que somente acontecerão se a resposta for verdadeira.
 Para criar a condição, geralmente são utilizados os operadores da linguagem Java, principalmente os operadores relacionais. 
@@ -46,13 +46,13 @@ A estrutura IF também permite a execução de um ou mais processamentos ou saí
 A instrução ELSE, em conjunto com a estrutura IF, permite criar uma resposta tanto para a condição verdadeira, quanto para a condição falsa.
 
 **Sintaxe:**
-```
+~~~java
 if (condição) {
     // Executa alguma ação caso a condição seja verdadeira
 } else {
     // Executa alguma ação caso a condição anterior anterior seja falsa
 }
-```
+~~~
 Este Laço Condicional é muito utilizado em situações em que se faz necessário testar uma única condição/variável, que caso seja verdadeira, irá desencadear a realização de um ou mais comandos e caso seja falsa, irá desencadear um outro conjunto de um ou mais comandos.
 Temos então um teste e dois blocos de ações possíveis:
 - Um Bloco que será executado se a condição for verdadeira;
@@ -69,8 +69,7 @@ Importante destacar que se uma condição for verdadeira, as demais condições 
 **OBS:**
 O Laço condicional IF permite incluir em um algoritmo quantos "IF's" forem necessários. Entretanto, nestes casos, o ELSE será uma condição obrigatória, que será executada caso todas as condições anteriores tenham sido descartadas por se tratarem de condições falsas. Para criar condições intermediárias dentro do Laço Condicional IF, utilizaremos a combinação ELSE IF.
 **Sintaxe:** 
-
-```
+~~~java
 if (condição 1) {
     // Executa alguma ação caso a condição seja verdadeira
 } else if (condição 2) {
@@ -80,7 +79,7 @@ if (condição 1) {
 } else {
     // Executa alguma ação caso todas as condições anteriores sejam falsas
 }
-```
+~~~
 <br>
 <br>
 
@@ -88,7 +87,7 @@ if (condição 1) {
 Switch Case, também é um laço condicional, ou seja, uma estrutura de decisão, onde podemos através de premissas indicar qual ação deve-se ter conforme a opção escolhida. Em outras palavras, Switch Case é um Laço Condicional, que define o código a ser executado com base em uma comparação de valores.
 
 **Sintaxe:**
-```
+~~~java
 switch (variavel ou valor) {
   case valor1:
     //executa alguma ação caso esta condição seja verdadeira
@@ -103,7 +102,7 @@ switch (variavel ou valor) {
     //Opcional = executa alguma ação caso todas as condições anteriores forem falsas
     break;
 }
-```
+~~~
 
 O Laço Condicional SWITCH CASE representa de uma maneira mais simples o encadeamento de estruturas IF. É uma forma de reduzir a complexidade de várias estruturas IF encadeadas.
 O conteúdo da variável da cláusula do SWITCH é comparado com os valores constantes das cláusulas CASE, e caso uma das comparações seja verdadeira, o comando associado é executado (somente esse comando). Caso nenhuma comparação seja Verdadeira, a estrutura executará a cláusula DEFAULT. 
